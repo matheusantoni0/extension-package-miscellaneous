@@ -1,0 +1,33 @@
+{
+  "name": "atlantjs-miscellaneous",
+  "displayName": "Atlantjs Miscellaneous",
+  "description": "The main generic extensions to leave your VSCode flying!",
+  "version": "1.0.0",
+  "publisher": "Atlantjs",
+  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-miscellaneous",
+  "icon": "icon.png",
+  "__metadata": {
+    "publisherDisplayName": "Atlantjs"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "mongodb.mongodb-vscode",
+    "VirejDasani.incredibly-in-your-face",
+    "VirejDasani.in-your-face",
+    "adpyke.codesnap",
+    "eightHundreds.vscode-drawio",
+    "purocean.drawio-preview",
+    "janisdd.vscode-edit-csv",
+    "yokawasa.jwt-debugger",
+    "Nishikanta12.regex",
+    "DavidAnson.vscode-markdownlint",
+    "shd101wyy.markdown-preview-enhanced",
+    "yzhang.markdown-all-in-one",
+    "Perkovec.emoji"
+  ]
+}
