@@ -4,7 +4,7 @@
   "description": "The main generic extensions to leave your VSCode flying!",
   "version": "1.0.5",
   "publisher": "Atlantjs",
-  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-miscellaneous",
+  "repository": "https://github.com/matheusantoni0/extension-package-miscellaneous",
   "icon": "icon.png",
   "__metadata": {
     "publisherDisplayName": "Atlantjs"
