@@ -17,7 +17,6 @@
   ],
   "extensionPack": [
     "ryu1kn.partial-diff",
-    "arcanis.vscode-zipfs",
     "mongodb.mongodb-vscode",
     "humao.rest-client",
     "deerawan.vscode-faker",
